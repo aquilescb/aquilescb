@@ -1,45 +1,71 @@
 <h1 align="center">Hi 👋, I'm Aquiles Cancinos</h1>
 <h3 align="center">Student at Universidad Católica de Salta 🌟</h3>
 
-<p align="right">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" />
-</p>
+---
 
-🎓 As a student of Informatics Engineering at Universidad Católica de Salta, I'm passionate about software development and driven to solve real-world problems.
+🎓 I'm currently studying Informatics Engineering at Universidad Católica de Salta. I'm passionate about software development, and I love solving real-world problems by building useful and scalable applications.
 
-💡 Adaptable and self-taught, I embrace constant learning and enjoy working in collaborative environments where I value communication and shared growth.
+💡 I'm adaptable, self-taught, and enjoy working in collaborative environments. I value communication, teamwork, and continuous learning.
 
-🚀 Currently seeking opportunities to gain professional experience, apply my knowledge, and keep growing in the tech world. Ready for new challenges!
+🚀 I'm seeking opportunities to gain professional experience, contribute to impactful projects, and keep improving my technical and soft skills.
 
 ---
 
-### 🚀 Technologies and Tools
+### 🧠 Skills and Technologies
+
+#### 🚀 Technologies and Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
+
+#### 🛢 Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+#### 🛠 Tools & Practices
+<p>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+</p>
+
+---
+
+### 🌱 Soft Skills
+- Clear communication
+- Team collaboration
+- Proactive learning
+- Problem-solving mindset
+- Agile methodology (Scrum)
 
 ---
 
 ### 📫 How to reach me
 <p>
   <a href="https://www.linkedin.com/in/aquilescb123/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100011506173742" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/aquiles_cb/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:aquilescancinos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-📧 **aquilescancinos@gmail.com**
 
 ---
 
@@ -51,3 +77,8 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=aquilescb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
 </p>
+
+### 🧠 Quote
+<blockquote>
+  "The best way to predict the future is to invent it."<br><em>- Alan Kay</em>
+</blockquote>
